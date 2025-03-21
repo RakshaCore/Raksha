@@ -66,7 +66,7 @@
 ## 📫 Let's Connect!  
 🔗 **LinkedIn**: [Raksha Prabhu](https://linkedin.com/in/raksha-prabhu-8b07b0228)  
 📧 **Email**: [prabhuraksha10@gmail.com](mailto:prabhuraksha10@gmail.com)  
-🐱‍💻 **GitHub**: [onegirlarmy](https://github.com/onegirlarmy)  
+🐱‍💻 **GitHub**: [RakshCore](https://github.com/RakshaCore)  
 
 ---
 
