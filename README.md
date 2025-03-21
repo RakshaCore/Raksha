@@ -23,13 +23,6 @@
 
 ---
 
-## 🚀 What I'm Working On  
-🔹 **Fake News Detection using ML** - NLP-based project to classify news as real or fake  
-🔹 **Diving into AI & ML** - Exploring advanced data-driven models  
-🔹 **Building Scalable Web Apps** - Using React, Node.js & Firebase  
-🔹 **Cloud Computing** - Enhancing skills in AWS & Google Cloud  
----
-
 ## 🛠️ Tech Stack  
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
